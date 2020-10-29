@@ -1,0 +1,35 @@
+courses
+
+courses name
+Batch
+timings
+trainer name
+duration
+fees
+
+events
+
+course name
+Latest events
+tournament
+participation
+prices
+championship
+student history
+
+offers
+
+
+offername
+details
+course
+Validitity
+photo
+
+
+
+
+
+
+
+
